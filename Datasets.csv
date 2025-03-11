@@ -1,0 +1,102 @@
+Disease,Symptom
+Asthma,shortness of breath
+Asthma,wheezing
+Asthma,chest tightness
+Bronchitis,cough
+Bronchitis,chest discomfort
+Bronchitis,mucus production
+Chickenpox,fever
+Chickenpox,itchy rash
+Chickenpox,blisters
+Diabetes,excessive thirst
+Diabetes,frequent urination
+Diabetes,blurred vision
+Diabetes,weight loss
+Diabetes,fatigue
+Epilepsy,seizures
+Epilepsy,staring spells
+Epilepsy,uncontrollable movements
+Heart Disease,chest pain
+Heart Disease,shortness of breath
+Heart Disease,dizziness
+Heart Disease,irregular heartbeat
+Heart Disease,nausea
+Influenza,fever
+Influenza,cough
+Influenza,fatigue
+Influenza,body aches
+Influenza,sore throat
+Kidney Disease,fatigue
+Kidney Disease,swelling in legs
+Kidney Disease,decreased urine output
+Kidney Disease,shortness of breath
+Lung Cancer,chronic cough
+Lung Cancer,weight loss
+Lung Cancer,chest pain
+Lung Cancer,hoarseness
+Lung Cancer,shortness of breath
+Malaria,fever
+Malaria,chills
+Malaria,sweating
+Malaria,vomiting
+Malaria,headache
+Meningitis,stiff neck
+Meningitis,fever
+Meningitis,sensitivity to light
+Meningitis,severe headache
+Migraine,headache
+Migraine,nausea
+Migraine,sensitivity to light
+Migraine,blurred vision
+Migraine,vomiting
+Pneumonia,fever
+Pneumonia,cough
+Pneumonia,shortness of breath
+Pneumonia,chest pain
+Pneumonia,chills
+Tuberculosis,persistent cough
+Tuberculosis,night sweats
+Tuberculosis,weight loss
+Tuberculosis,chest pain
+Tuberculosis,fever
+Typhoid,fever
+Typhoid,abdominal pain
+Typhoid,loss of appetite
+Typhoid,diarrhea
+Common Cold,sneezing
+Common Cold,runny nose
+Common Cold,sore throat
+Common Cold,mild fever
+Dengue,high fever
+Dengue,severe headache
+Dengue,joint pain
+Dengue,rash
+Dengue,bleeding gums
+Food Poisoning,nausea
+Food Poisoning,vomiting
+Food Poisoning,diarrhea
+Food Poisoning,stomach cramps
+Hypertension,high blood pressure
+Hypertension,dizziness
+Hypertension,blurred vision
+Appendicitis,severe abdominal pain
+Appendicitis,vomiting
+Appendicitis,loss of appetite
+Appendicitis,low-grade fever
+Arthritis,joint pain
+Arthritis,swelling
+Arthritis,stiffness
+Sinusitis,facial pain
+Sinusitis,nasal congestion
+Sinusitis,headache
+Sinusitis,post-nasal drip
+Skin Allergy,itchy skin
+Skin Allergy,red rashes
+Skin Allergy,swelling
+Acid Reflux,heartburn
+Acid Reflux,chest discomfort
+Acid Reflux,acidic taste in mouth
+Gallstones,abdominal pain
+Gallstones,nausea
+Gallstones,vomiting
+Gallstones,jaundice
