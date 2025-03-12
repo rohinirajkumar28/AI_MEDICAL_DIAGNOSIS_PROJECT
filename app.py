@@ -29,7 +29,7 @@ def set_background_image(image_file):
         """, unsafe_allow_html=True)
 
 # Set background
-set_background_image("background2.jpg")  # Make sure the image file exists in the directory
+set_background_image("background1.jpg")  # Make sure the image file exists in the directory
 
 # Function to load and process the dataset
 def load_dataset():
